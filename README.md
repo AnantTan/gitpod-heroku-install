@@ -1,7 +1,4 @@
-# Code Institute
+# Interactive Web Application (BSc in IT, Group A & B) 2019 – CCT<br/>[![CCT](https://www.cct.ie/wp-content/themes/hdcct/img/atoms/logo.jpg)](http://cct.ie)
 
-Welcome USER_NAME,
+CA1 in-class demo
 
-Use this workspace template when you need the Heroku command-line tools. Type `heroku` in the terminal window to run the Heroku toolbelt.
-
-Happy coding!
